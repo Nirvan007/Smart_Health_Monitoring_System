@@ -3,6 +3,7 @@ Real time healthmonitoring band using Internet of Things <a name="TOP"></a>
 
 ## Table of Contents
 * [Introduction](#Introduction)
+* [Problem Statement](#Problem_Statement)
 * [Features](#Features)
 * [Tools Used](#Tools-Used)
   * [EasyEDA](#EasyEDA)
@@ -20,10 +21,13 @@ Real time healthmonitoring band using Internet of Things <a name="TOP"></a>
 * [References](#References)
 
 ## Introduction
-A real-time health monitoring system (Health Band) that monitors health-related parameters like Heart rate, SpO2, Body temperature, Room temperature, Sleep duration, Fall detection, and Emergency call button. This device was intended to be used by elderly people and patients (non-serious) who live alone away from their family and hence, the name SEMACS - Smart Elderly Monitoring and Care System. With the help of IoT, the relatives or the family members of these individuals can keep a check on the person who is wearing it, and also be able to get a notification if there is any mishap or emergency. This band can also be used by people who want to use it as a regular health or fitness band in order to check their health and performance in day-to-day life. 
+The "Smart Health Monitoring System" introduces a Real-Time Health Monitoring Band, a wearable designed for the medical industry. The device integrates features like continuous heart rate monitoring, SpO2 measurement, temperature tracking, sleep analysis, fall detection, and an emergency call button. The goal is to offer comprehensive health oversight, providing accurate readings and timely notifications for emergencies or abnormal health metrics. The device connects to a main node, which processes and sends raw data to the cloud. The IoT cloud enables remote monitoring through a mobile app dashboard, allowing healthcare professionals to proactively manage health and improve efficiency. Ultimately, it combines advanced health tracking with seamless connectivity for remote diagnosis by healthcare specialists.
+
+## Problem Statement
+In underserved areas lacking specialized medical personnel, patient monitoring is inadequate, leading to compromised care and increased healthcare costs. There is a pressing need for an IoT-driven solution capable of autonomously monitoring patients' vital signs and health status, empowering non-specialized healthcare providers to deliver proactive care. Such a system aims to bridge healthcare disparities by providing accessible and reliable monitoring solutions, ultimately improving patient outcomes in underserved communities.
 
 ## Features
-The SEMACS Health Band is equipped with the following features:
+The propesed device is equipped with the following features:
 * Heart Rate monitoring
 * SpO2 monitoring
 * Body Temperature monitoring
@@ -36,7 +40,7 @@ The SEMACS Health Band is equipped with the following features:
 
 ## Unique Features
 * Works on the Internet of Things, and hence health parameters of the user can be monitored from anywhere in the world with the help of an Internet connection.
-* Parameter monitoring using SEMACS Mobile App
+* Parameter monitoring using a Mobile App.
 * All health related data is stored and forwarded to the application in real-time using a Real-Time Database (RTDB) with the help of Google Firebase.
 * 1000 mAh lithium-ion battery that is rechargeable and gives a long battery backup.
 
@@ -100,23 +104,23 @@ Espressif System's ESP8266 microcontroller has the following specifications:
 ## Schematic
 ![image](https://user-images.githubusercontent.com/127144315/223844096-c96638e7-28e1-4cd9-b39b-7ca7b42ead74.png)
 
-## Completed Hardware Assembly
+## Hardware Assembly
 ![image](https://github.com/Nirvan007/Real-time-health-monitoring-system-using-Internet-of-Things/assets/127144315/49bc9b4f-90aa-49cb-be2e-77df2ca451d8)
 
 ## Google Firebase (Back-end Real-Time Database)
 #### Projects interface
 ![image](https://user-images.githubusercontent.com/127144315/223844498-3c206e85-dd1c-41f6-998f-936464151265.png)
 
-#### SEMACS Project Overview
+#### Project Overview
 ![image](https://user-images.githubusercontent.com/127144315/223844840-717feab1-2709-4f5d-92d9-6bd8a7ac7aec.png)
 
-#### SEMACS Real-Time Database
+#### Real-Time Database
 ![WhatsApp Image 2023-03-09 at 2 23 30 AM](https://user-images.githubusercontent.com/127144315/223847460-ce3c80cb-12b4-41f8-a68a-bc4bb17bbfea.jpeg)
 
 #### Parameter Display
 ![WhatsApp Image 2023-03-09 at 2 23 30 AM (1)](https://user-images.githubusercontent.com/127144315/223847522-d2eddc7b-c720-4bbe-ab90-4611382727a1.jpeg)
 
-## SEMACS Application UI
+## Application UI
 #### Main Dashboard
 ![WhatsApp Image 2023-03-09 at 1 21 38 AM](https://user-images.githubusercontent.com/127144315/223833541-a061c01b-c190-46f0-ba09-0a1ba1cc4de5.jpeg)
 
