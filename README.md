@@ -5,7 +5,7 @@ Real time healthmonitoring band using Internet of Things <a name="TOP"></a>
 * [Introduction](#Introduction)
 * [Objective](#Objective)
 * [Motivation](#Motivation)
-* [Problem Statement](#Problem_Statement)
+* [Problem Statement](#Problem-Statement)
 * [Features](#Features)
 * [Tools Used](#Tools-Used)
   * [EasyEDA](#EasyEDA)
@@ -50,7 +50,6 @@ Social impact of healthcare innovation: Driving positive change in healthcare ac
 
 ## Problem Statement
 In underserved areas lacking specialized medical personnel, patient monitoring is inadequate, leading to compromised care and increased healthcare costs. There is a pressing need for an IoT-driven solution capable of autonomously monitoring patients' vital signs and health status, empowering non-specialized healthcare providers to deliver proactive care. Such a system aims to bridge healthcare disparities by providing accessible and reliable monitoring solutions, ultimately improving patient outcomes in underserved communities.
-
 * Limited Remote Monitoring: Traditional healthcare systems lack efficient remote monitoring capabilities, hindering timely interventions and patient care outside clinical settings.
 * Data Accessibility Challenges: Accessing comprehensive patient data and medical records remotely is often cumbersome and inefficient, impeding healthcare professionals' ability to make informed decisions.
 * Technological Disconnect: Existing healthcare systems often fail to integrate modern technology effectively, resulting in fragmented data collection and limited accessibility for professionals and patients alike.
