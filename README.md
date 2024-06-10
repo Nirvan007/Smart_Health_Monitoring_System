@@ -170,7 +170,6 @@ Espressif System's ESP8266 microcontroller has the following specifications:
   * The backend ensures high uptime for reliability.
  
 ![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/d27bf0f7-8972-43c8-983b-3a5fd30368c4)
-![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/5cfd246a-47d0-47e0-974a-c703c4b3587f)
 
 ## Flowchart
 ![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/91f19311-487f-4e63-80c0-768c9a55a25e)
@@ -193,7 +192,7 @@ Espressif System's ESP8266 microcontroller has the following specifications:
 
 ## Application UI
 #### Main Dashboard
-![WhatsApp Image 2023-03-09 at 1 21 38 AM](https://user-images.githubusercontent.com/127144315/223833541-a061c01b-c190-46f0-ba09-0a1ba1cc4de5.jpeg)
+![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/5cfd246a-47d0-47e0-974a-c703c4b3587f)
 
 ## Integrated Testing
 ![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/7615b88e-d538-45e1-bbe5-cdc47bad397a)
