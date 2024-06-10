@@ -1,5 +1,6 @@
 Real time healthmonitoring band using Internet of Things <a name="TOP"></a>
 ===================
+![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/46a28316-1c4e-4bc1-bb33-1eaa60c309cb)
 
 ## Table of Contents
 * [Introduction](#Introduction)
