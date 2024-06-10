@@ -33,7 +33,6 @@ Our project unveils a groundbreaking Smart Health Monitoring System designed to 
 With real-time tracking of vital signs and remote accessibility to patient data, we aim to address the growing demand for efficient healthcare solutions.
 Leveraging advanced hardware components and a user-friendly mobile app developed on Flutter, our system offers seamless integration and intuitive user experience.
 By emulating the interface of hospital patient monitors, we prioritize ease of use, ensuring healthcare professionals can navigate effortlessly through patient data.
-![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/21f385db-33ac-4492-a937-b029f88df4c1)
 
 ## Objective
 * Develop a Smart Health Monitoring System integrating advanced hardware components for real-time monitoring of vital signs (heart rate, SpO2, temperature, sleep patterns, room conditions).
