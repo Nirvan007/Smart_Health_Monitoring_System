@@ -206,9 +206,9 @@ We would like to extend our sincere gratitude to our Internal Faculty mentor, Pr
 
 ## References
  - [1] https://www.analog.com/en/products/max30102.html#product-overview
- - [2] https://ieeexplore.ieee.org/document/8540606
+ - [2] P. Jangra and M. Gupta, "A Design of Real-Time Multilayered Smart Healthcare Monitoring Framework Using IoT," 2018 International Conference on Intelligent and Advanced System (ICIAS), Kuala Lumpur, Malaysia, 2018, pp. 1-5, doi: 10.1109/ICIAS.2018.8540606.
  - [3] https://lastminuteengineers.com/max30102-pulse-oximeter-heart-rate-sensor-arduino-tutorial/#:~:text=MAX30102%20Module%20Pinout,-The%20MAX30102%20module&text=You%20can%20connect%20it%20to,an%20interrupt%20for%20each%20pulse.
- - [4] https://ieeexplore.ieee.org/document/9153994
+ - [4] O. Al-Mahmud, K. Khan, R. Roy and F. Mashuque Alamgir, "Internet of Things (IoT) Based Smart Health Care Medical Box for Elderly People," 2020 International Conference for Emerging Technology (INCET), Belgaum, India, 2020, pp. 1-6, doi: 10.1109/INCET49848.2020.9153994.
  - [5] Smith, J., Johnson, A., & Brown, K. (2017). "Efficacy of Wearable Devices in Cardiovascular Health Monitoring." Journal of Health Technology, vol. 10, no. 2, pp. 45-56.
  - [6] Jones, R., Williams, B., & Davis, C. (2018). "Wearable Sensors for Sleep Monitoring: A Review." IEEE Sensors Journal, vol. 20, no. 4, pp. 1123-1132.
  - [7] Chen, L., Zhang, Y., & Wang, S. (2019). "Wearable Health Monitoring Technologies for Elderly Care: A Systematic Review." IEEE Transactions on Biomedical Engineering, vol. 66, no. 7, pp. 1965-1978.
