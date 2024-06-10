@@ -14,7 +14,7 @@ Real time healthmonitoring band using Internet of Things <a name="TOP"></a>
   * [Figma](#Figma)
   * [Flutter](#Flutter)
   * [Google Firebase](#Google-Firebase)
-* [Hardware Components Used](#Hardware-Components-Used)
+* [Hardware Requirements](#Hardware-Requirements)
 * [Microcontroller Specifications](#Microcontroller-Specifications)
 * [Block Diagram](#Block-Diagram)
 * [Flowchart](#Flowchart)
