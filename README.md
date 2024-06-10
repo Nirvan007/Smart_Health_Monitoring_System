@@ -130,20 +130,20 @@ Espressif System's ESP8266 microcontroller has the following specifications:
 ![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/a86d72e0-528e-47d1-aaa1-f96d3d6ba483)
 
 ## Methodology
-* Requirement Analysis:
+#### Requirement Analysis:
   * Identify and prioritize project requirements based on stakeholder needs and objectives.
   * Define the scope, functionalities, and performance criteria for the Smart Health Monitoring System.
  
 ![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/6460e114-df76-46f3-b713-2c0b7c077a37)
 
-* Prototype Development:
+#### Prototype Development:
   * Create prototypes for hardware and application components.
   * Conduct rigorous testing for functionality assurance.
   * Acquire knowledge of system programming and configuration procedures.
  
 ![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/e3f796d0-754c-4e63-8b03-d9f8921ccfc9)
 
-* Hardware and Firmware Design and Development
+#### Hardware and Firmware Design and Development
   * Selected suitable components post-prototyping.
   * Started hardware and firmware development, including programming and assembly.
   * Conducted simultaneous testing to ensure proper functioning and implemented software-based preprocessing.
@@ -153,13 +153,13 @@ Espressif System's ESP8266 microcontroller has the following specifications:
 ![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/4bb07ffe-f8be-4235-b32d-1df7d83533ea)
 ![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/32956c10-7622-4b95-9339-ec69cb9cf079)
 
-* 3D Printed Hardware Enclosures
+#### 3D Printed Hardware Enclosures
 ![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/73cd43ac-73ae-48fb-84ae-204cffb4f178)
 
-* 3D Printed Hardware Enclosure Assembly
+#### 3D Printed Hardware Enclosure Assembly
 ![image](https://github.com/Nirvan007/Smart_Health_Monitoring_System/assets/127144315/39f39b00-11ba-4129-889c-55598c6d2611)
 
-* Software (Mobile App) Design and Development:
+#### Software (Mobile App) Design and Development:
   * Used Flutter and Firebase
   * UI resembles hospital monitors for familiarity.
   * Prioritize simplicity and functionality for ease.
